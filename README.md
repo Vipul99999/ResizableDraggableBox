@@ -17,8 +17,12 @@ A reusable React component that lets users **drag** and **resize** a box from al
 
 ## 📸 Demo
 
-<!-- Add a screenshot or GIF here if you want -->
-<!-- ![Demo](demo.gif) -->
+# ResizableDraggableBox
+
+![Demo](./demo.gif)
+
+A resizable and draggable React component...
+
 
 ---
 
