@@ -19,7 +19,7 @@ A reusable React component that lets users **drag** and **resize** a box from al
 
 # ResizableDraggableBox
 
-![Demo](./demo.gif)
+![Demo](./Demo.gif)
 
 A resizable and draggable React component...
 
